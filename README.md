@@ -1,5 +1,10 @@
 live @ https://stepzen-weahter-app.vercel.app/
 
+![Screenshot 2024-01-22 141930](https://github.com/rawataman101/stepzen-gpt4-weather-app/assets/42992769/10f085eb-e1f3-49e9-9cc6-7b7b479eb1bf)
+
+![image](https://github.com/rawataman101/stepzen-gpt4-weather-app/assets/42992769/ed65a038-b724-4a42-9d9f-1caf276f24bb)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
